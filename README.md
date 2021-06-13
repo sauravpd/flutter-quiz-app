@@ -1,1 +1,1 @@
-simple quiz app built using flutter
+ quiz app built using flutter
